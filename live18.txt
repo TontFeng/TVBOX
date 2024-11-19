@@ -71,7 +71,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 
-🔞🈲成人(影片),#genre#
+🔞🈲成人(劇情影片),#genre#
 安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 百永纱理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
 耳边细语,https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
