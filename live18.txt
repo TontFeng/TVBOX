@@ -1,12 +1,7 @@
-大陆台,#genre#
-CCTV-1综合,http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
-CCTV-4中文国际,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV-5体育,http://123.184.28.50/hlslive-tx-cdn.ysp.cctv.cn/055/2024078403.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-东方卫视,http://64.140.167.170:8080/live/ydws2/hls.m3u8
-凤凰卫视,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+大陸,#genre#
 
-香港台,#genre#
+
+香港,#genre#
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -24,10 +19,10 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+無線新聞台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 
 
-台湾台,#genre#
+台灣,#genre#
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 東森新聞,http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
