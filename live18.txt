@@ -90,7 +90,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 潘朵啦粉紅台,https://2.ddyunbo.com/20190908/qvYslaAx/index.m3u8
 彩虹電影台,https://2.ddyunbo.com/20190908/nvueB1Az/index.m3u8
 PLAYBOY,https://2.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
-驚艷成人電影台,https://2.ddyunbo.com/20190914/TFWmOomT/index.m3u8
+
 彩虹e台,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
 JStar極限台,https://2.ddyunbo.com/20190918/7mkn1AhN/index.m3u8
 前後反差淫亂露臉騷婊,https://2.ddyunbo.com/20190923/WebyDiop/index.m3u8
