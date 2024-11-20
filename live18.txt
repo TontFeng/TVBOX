@@ -84,7 +84,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 松視1,http://18.svi-studio.com:8880/live/271871095922/006886711863/5.m3u8
 松視1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-松視1,http://live.redtraffic.xyz:80/fetish.m3u8
+松視1,http://18.svi-studio.com:8880/live/271871095922/006886711863/5.m3u8
 
 松視2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 松視2,http://18.svi-studio.com:8880/live/271871095922/006886711863/6.m3u8
@@ -92,8 +92,6 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-
-东热01,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
 
 🔞🈲成人台(劇情影片),#genre#
 安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
