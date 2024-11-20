@@ -43,7 +43,6 @@
 {"key":"*辣椒资源","name":"🔞辣椒潮吹🈲","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
 {"key":"*鲨鱼资源","name":"🔞鲨鱼中長片🈲","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
-{"key": "Youtube","name": "❤📺YouTube新聞直播","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube.txt"},
 {
     "key": "苹果",
     "name": "🔥🍎┃小苹果┃IJK（快）",
