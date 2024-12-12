@@ -1,3 +1,5 @@
+华语新闻台,#genre#
+
 香港电视台,#genre#
 翡翠台,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d$H.265&(kxrj)&167
 翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9$(kxrj)&167
@@ -58,8 +60,11 @@ HOY资讯台,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320$(kxrj)&1
 
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali$(kxrj)
 
-美洲电视台,#genre#
+电影台,#genre#
 
-华语新闻台,#genre#
+体育台,#genre#
+
+
+美洲电视台,#genre#
 
 英语新闻台,#genre#
