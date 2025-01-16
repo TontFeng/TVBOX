@@ -181,7 +181,92 @@ CNA,p3p://173.208.176.178:31809/64be9bb50006c1b519c62cba356951a9
 
 
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali$(kxrj)
-TVB_E-NEWS,p3p://108.181.32.169:33201/64124d81000ccc51a0d8b69f1a1a762b
+TVB_E-NEWS,p3p://108.181.32.169:53123/64124d81000ccc51a0d8b69f1a1a762b
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 英语新闻台,#genre#
+
+[港•澳•台电信专线108],#genre#
+凤凰中文,p3p://108.181.32.169:53123/6410229e000655dd98612e41401e3e7d
+凤凰中文,p3p://108.181.32.169:53123/641fd7b400080236d5bc536f5d82159c
+凤凰资讯,p3p://108.181.32.169:53123/641022be000e5cc69861ad4f5a025336
+凤凰香港,p3p://108.181.32.169:53123/641022da0005d3069862188000a64525
+有线新闻,p3p://108.181.32.169:53123/6533f8d200067abd2d0ae8f534c10d88
+now新闻,p3p://108.181.32.169:53123/6410254c0006df63986ba60f292a7500
+Plus综合,p3p://108.181.32.169:53123/641021800006a527985cd1244315142d
+popc电影,p3p://108.181.32.169:53123/6425242d000d55adea6ed4fa37195f98
+无线翡翠,p3p://108.181.32.169:53123/6533f5c20003762b2cfef1ac322c6404
+
+酷9js测试,#genre#
+
+更多JS请加入酷9非官方群424765458
+
+欧华159格式,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e4818000b73240c7d19181340415e
+
+
+焦点169格式,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=642606be0002dd54ede3d8b40d6c04dc
+
+
+fccsen域名格式,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=6277188600044b271208d22208f54f69
+
+
+🔻欧华159🔻,#genre#
+以下是159,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+HK and Macao,#genre#
+TVB翡翠台 H.265,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e4c6d000965ef0c8e049f4be34103
+TVB J2,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e4cda0007743f0c8fade86d132b26
+TVB J2 H.265,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e4d3e000b344f0c91357e73163f82
+TVB无线新闻,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e4703000daead0c78dfb07723484e
+TVB无线新闻 H.265,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e4818000b73240c7d19181340415e
+TVB财体资讯,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159/&id=5ffbee4900066c0ddf0b8b84423c06f3
+TVB财体资讯 H.265,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=611d989d0005244a4a7f24d111282ffb
+TVB明珠,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=611d99f3000116024a845bb9627404c9
+TVB明珠 H.265,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=602f1ba9000814efa6f2970333d309d9
+Viu TV,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=611d99820007a67c4a82a3fe3cc749de
+VIU TV H.265,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159/&id=5fed3234000c7a49a57dbd6e14af358f
+VIU 6,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159/&id=5fed31e7000736e2a57c8f4c14d55d36
+有线直播新闻,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=64ff4f0e000d7954168179ff031e6108
+香港国际财经,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=64838620000cd8ed32fb0d6a414411f7
+HOY资讯,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=655bd22c000147307fdff68936807320
+HOY TV,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=62184bc3000cd48f11e47b06202b7e18
+TVB娱乐新闻,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159/&id=5fe7f68d000e73d9910d2a86341258f7
+黄金翡翠台,http://A/ku9/js/ku9p3p.js?ip=108.181.20.159&id=653e49c20006c60f0c8397f7771b1b7b
+
+🔻焦点169🔻,#genre#
+以下是169,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+TVB翡翠台,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=641009ee000871369800bf4762e35621
+TVB翡翠台(b),http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=6410094a000234c597fe3d0e63905877
+TVB翡翠台MY,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=64100a0b000cbbda980131a946a90bc0
+TVB明珠台Pearl,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=64100a2a0003a57f9801a86d6b050a59
+TVB星河粤语,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=641021c50003c5af985dddf037af353c
+TVB星河国语,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=641021e900026b0f985e6a374d7d56bb
+TVB功夫台,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=6411291b0004b01b9c62861646d00929
+TVB娱乐新闻台,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=64102219000c6f74985f28485a5a5799
+TVB J2,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=641021800006a527985cd1244315142d
+TVB经典台,http://A/ku9/js/ku9p3p.js?ip=108.181.32.169&id=6410219e0000704b985d44bd2a501d47
+
+fccsen源🔻,#genre#
+以下是fccsen,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+Beinsport FR1,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5ef28d5e000ea60a544bbad142d06817
+Beinsport FR2,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5a98ef450005f615a10e26f24e4370bc
+Beinsport FR3,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5a98ef60000d6566a10e9251042026f2
+UFC pass,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5c4a5ad2000ba3f2fbdd8ccf71297ceb
+WWE,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5b987ab5000ef7018744e50174a621bd
+Bein Sports USA,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5c4a5e2a000ddac2fbea9d2420355926
+Bein Sport CA,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5bd63729000b758e786c5e885c6634e3
+Euro News,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5a5170cc000e8c1389c8a661433d15f1
+Fight Network,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5b9878b100084486873d03b816881da0
+
+ESPN 1,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=59d24815000bb22cad7630914a1924b3
+ESPN 2,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=59bbf1fd000b428d563618b379a53086
+ESPN U,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5a88cf44000028fc621142635fc84be5
+ESPN News,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5c5ccceb00083b8d43eb3d9232165684
+NBA TV US,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5d45b702000419e9d1bd300979f803ab
+NBA Canada,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=5d45b6b600003de3d1bc062c6ca215ee
+Fox Sport 1,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=59bbf21600071468563679492664613f
+Fox Sport 2,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=59e2b81e00049c3eedabbfe568a9573b
+Tennis,http://A/ku9/js/ku9p3p.js?ip=fccsen.dyndns.tv&id=60b962030008c44344f88b155b45442f
+
+
+
 
