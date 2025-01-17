@@ -186,15 +186,13 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 TEST,#genre#
 
-东方卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000518
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://php.jdshipin.com/TVOD/iptv.php?id=dfws
 
-广东卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000520
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广东卫视,http://php.jdshipin.com/TVOD/iptv.php?id=gdws
 
-大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
-大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-大湾区卫视,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1004_1.m3u8
+
+大湾区卫视,http://php.jdshipin.com/TVOD/iptv.php?id=dwqws
+
 
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011655
