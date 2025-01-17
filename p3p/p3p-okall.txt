@@ -200,10 +200,19 @@ TEST,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台T,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+TVB 翡翠台 SG,p3p://167.114.175.6:55331/65b6675f0001fb0ee1b519e560d06aa2
+
+TVB JADE 华丽台,p3p://167.114.175.6:55331/64ee3cb2000a26c8d3d2192c252a0aba
+TVB Magic,p3p://167.114.175.6:55331/64bcf85500083b2d135ffe1a3ef73b5c
+
+TVB翡翠台MY2,p3p://167.114.175.6:55331/6533f5c20003762b2cfef1ac322c6404$(b)&kxrj&焦点香港108
+TVB翡翠台MY,p3p://167.114.175.6:55331/6533f6f8000f2ebd2d03af9d53e46544
+
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -218,6 +227,7 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
 
 
 美·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
