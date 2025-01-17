@@ -200,11 +200,10 @@ TEST,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+TVB 翡翠台 SG,p3p://167.114.175.6:55331/65b6675f0001fb0ee1b519e560d06aa2
 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台T,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-TVB 翡翠台 SG,p3p://167.114.175.6:55331/65b6675f0001fb0ee1b519e560d06aa2
 
 TVB JADE 华丽台,p3p://167.114.175.6:55331/64ee3cb2000a26c8d3d2192c252a0aba
 TVB Magic,p3p://167.114.175.6:55331/64bcf85500083b2d135ffe1a3ef73b5c
