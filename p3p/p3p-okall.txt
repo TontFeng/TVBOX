@@ -102,7 +102,7 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$(kxrj)&173
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$(kxrj)
 
-大陆电视台,#genre#
+大陸電視台,#genre#
 
 //P3P💝
 CCTV-1 綜合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231(kxrj)&167
@@ -121,15 +121,11 @@ CCTV-8 電視劇,p3p://167.114.175.6:55331/5ff866900007a9fbd141d26a26c3200d(kxrj
 廣東珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 廣東珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 
-廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-廣東體育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 
-
-
-电影台,#genre#
+電影台,#genre#
 
 //P3P💝
-美亚电影(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428$(kxrj)&167
+美亞電影台(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428$(kxrj)&167
 龙祥电影(粤),p3p://167.114.175.6:55331/63375cce0008451773313a26199f3191$(kxrj)&167
 天映频道(粤),p3p://167.114.175.6:55331/65bf577300077e84049eb5316df2149c$(kxrj)&167
 PopC 电影,p3p://167.114.175.6:55331/663e9212000a54b4285005cd59217563$(kxrj)&167
@@ -142,11 +138,11 @@ CHC动作电影,p3p://167.114.175.6:55331/63ec4d4200074d64e44790cb67ae7b20&(kxrj
 东森电影,p3p://167.114.175.6:55331/62c103a5000b5a66a4eacca77822079a&(kxrj)&167
 东森洋片,p3p://167.114.175.6:55331/64c62c06000d1cf03751bf246ed813e7&(kxrj)&167
 好莱坞电影,p3p://167.114.175.6:55331/62cee8b3000ea6aedb30a55616047866&(kxrj)&167
-龙华电影,p3p://167.114.175.6:55331/621471310004d28d02d6aeb471c265ec&(kxrj)&167
+龍華電影台,p3p://167.114.175.6:55331/621471310004d28d02d6aeb471c265ec&(kxrj)&167
 龙华经典,p3p://167.114.175.6:55331/6223b9d8000ef67e3e8a2073190e36d5
 龙华洋片,p3p://167.114.175.6:55331/64c0e1af000875f522a785c0570b06ae&(kxrj)&167
 Amc最爱电影,p3p://167.114.175.6:55331/625bbd49000d7c0d1954e42d45bc3182&(kxrj)&167
-靖天电影,p3p://167.114.175.6:55331/61ed0469000059af74b25aa267531e5a&(kxrj)&167
+靖天電影台,p3p://167.114.175.6:55331/61ed0469000059af74b25aa267531e5a&(kxrj)&167
 靖天映画,p3p://167.114.175.6:55331/6258eae500040fd80e4f0b2311754279
 HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 HBO HD,p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da
@@ -157,12 +153,18 @@ HITS,p3p://167.114.175.6:55331/6233e648000735057db6cf734adf440d
 天映经典,p3p://167.114.175.6:55331/5fded422000d0eb46d5f29815c1d4155
 
 //其它源
+美亞電影台(粤),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
+PopC 电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
 体育台,#genre#
 
 //P3P💝
 CCTV-5 体育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV-5+ 体育赛事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
+廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 五星体育,p3p://167.114.175.6:55331/63ec4dc200075675e44984ca52f86245
 Now 体育一台,p3p://167.114.175.6:55331/63ed464b000b911be8145d035c4e0f21
 Now 体育一台,p3p://173.208.176.178:31809/63ed464b000b911be8145d035c4e0f21
@@ -176,9 +178,9 @@ Now 英超,p3p://173.208.176.178:31809/65acf008000b26e4bcbb1adc24476b3f
 Now NBA TV,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af
 Bein Sport 1,p3p://167.114.175.6:55331/667b10d1000e2b38149def9902d56b98
 Bein Sport 2,p3p://167.114.175.6:55331/667b119a00012c7814a0fd5f0a4144be
-⚽🥎⛹台湾体育台🏀🏀,p3p://167.114.175.6:55331/5fe16e4c000e45c17788ec964e9c5564
+⚽🥎⛹台湾体育台🏀🏀,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 智林体育,p3p://167.114.175.6:55331/62148d7e000079c103453a521daa6e9f
-纬来体育,p3p://167.114.175.6:55331/5fe16e4c000e45c17788ec964e9c5564
+緯來體育,p3p://167.114.175.6:55331/5fe16e4c000e45c17788ec964e9c5564
 博斯运动1,p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
 博斯运动2,p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
 博斯高球1,p3p://167.114.175.6:55331/626b4058000aaf3b55ebf11727dd34f5
@@ -195,6 +197,9 @@ Trace Sport,p3p://167.114.175.6:55331/644faccf000c7b6368730354764b17ed
 
 //其它源
 
+廣東體育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
+緯來體育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
 
 
 美洲电视台,#genre#
@@ -210,6 +215,13 @@ TVB E US,p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a
 凤凰美洲台,p3p://173.208.176.178:31809/5fe00fca0004e627722fbe5a480a642f$(kxrj)&173
 东森美洲新闻,p3p://167.114.175.6:55331/5fe072eb000424b673b2f70e404c56b5
 加拿大600新闻,p3p://167.114.175.6:55331/63f2ee15000673e5fe2b9ef606712937
+
+//其它源
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 新加波&马来西亚,#genre#
 //P3P💝
@@ -236,7 +248,7 @@ TVB 翡翠台 SG,p3p://167.114.175.6:55331/65b6675f0001fb0ee1b519e560d06aa2
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台T,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -264,31 +276,31 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
+
 
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+
+
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
 
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
@@ -300,7 +312,7 @@ Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+
 KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
@@ -314,7 +326,7 @@ Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
 
 
 
