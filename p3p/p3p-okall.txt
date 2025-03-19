@@ -1,4 +1,4 @@
-華語新聞台,#genre#
+華語新聞(p3p),#genre#
 //P3P💝
 香港新聞📢,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb&(kxrj)&167
 無線新聞台,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e&(kxrj)&167.H.265
@@ -29,7 +29,7 @@ TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0&(kxrj)&167
 香港新聞📢,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
-香港電視台,#genre#
+香港電視台(p3p),#genre#
 //P3P💝
 翡翠台,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d$H.265&(kxrj)&167
 翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9$(kxrj)&167
@@ -102,7 +102,7 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$(kxrj)&173
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$(kxrj)
 
-大陸電視台,#genre#
+大陸電視台(p3p),#genre#
 
 //P3P💝
 CCTV-1 綜合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231(kxrj)&167
@@ -122,7 +122,7 @@ CCTV-8 電視劇,p3p://167.114.175.6:55331/5ff866900007a9fbd141d26a26c3200d(kxrj
 廣東珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 
 
-電影台,#genre#
+電影台(p3P),#genre#
 
 //P3P💝
 美亞電影台(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428$(kxrj)&167
@@ -328,5 +328,160 @@ Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 
+AKTV-港台线路,#genre#
 
+翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+翡翠台 4K,http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+无线新闻台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+翡翠综合台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+翡翠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+鳳凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+明珠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+千禧經典台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+黃金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+TVB Jade,http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+TVB Xing He,http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+viuTV,http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+TVBS精采台,http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
+三立綜合台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+中視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+台視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+愛爾達娛樂台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
+民視新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+民視綜藝台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
+無線衛星新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+亞洲新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+amc電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+龍華電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+DW,http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+France 24,http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+NHK World-Japan,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+Asian Action,http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
+Celestial Movies,http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+CINEMAWORLD,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+FIGHT SPORTS,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+KIX,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
+Mediacorp Entertainment Chinese,http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+NBA TV,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+Sukan,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+Sukan[备用],http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
+Unifi Sport,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+Astro Football,http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+Astro IQIYI,http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+Astro 欢喜台,http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+NTV NEWS 24,http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+
+
+
+Jdshipin线路,#genre#
+
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠华丽台,http://php.jdshipin.com/smt.php?id=Tvbjade
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB 星河,http://php.jdshipin.com/smt.php?id=Xinhe
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+TVB 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro 剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+
+
+TVB-myTV SUPER,#genre#
+
+Animax,http://103.38.82.107:28888/stream/tvb/animax/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+AXN,http://103.38.82.107:28888/stream/tvb/axn/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+FashionBox,http://103.38.82.107:28888/stream/tvb/fashionbox/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+翡翠台,http://103.38.82.107:28888/stream/tvb/feicui/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+Global Trekker,http://103.38.82.107:28888/stream/tvb/globaltrekker/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+KIX,http://103.38.82.107:28888/stream/tvb/kix/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+Love Nature HD,http://103.38.82.107:28888/stream/tvb/lovenaturehd/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+Mezzo Live HD,http://103.38.82.107:28888/stream/tvb/mezzolivehd/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+myTV SUPER 18台,http://103.38.82.107:28888/stream/tvb/mytvsuper18/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+myTV SUPER FREE,http://103.38.82.107:28888/stream/tvb/mytvsuperfree/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+myTV SUPER 直播足球3台,http://103.38.82.107:28888/stream/tvb/mytvsuper3/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+myTV SUPER 直播足球4台,http://103.38.82.107:28888/stream/tvb/mytvsuper4/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+myTV SUPER 直播足球5台,http://103.38.82.107:28888/stream/tvb/mytvsuper5/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+myTV SUPER 直播足球6台,http://103.38.82.107:28888/stream/tvb/mytvsuper6/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+Nick Jr.,http://103.38.82.107:28888/stream/tvb/nickjr/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+Nickelodeon,http://103.38.82.107:28888/stream/tvb/nickelodeon/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+PopC,http://103.38.82.107:28888/stream/tvb/popc/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+ROCK Action,http://103.38.82.107:28888/stream/tvb/rockaction/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+ROCK綜藝娛樂,http://103.38.82.107:28888/stream/tvb/rock/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+SUPER Kids Channel,http://103.38.82.107:28888/stream/tvb/superkidschannel/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+Thrill,http://103.38.82.107:28888/stream/tvb/thrill/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+TVB Plus,http://103.38.82.107:28888/stream/tvb/tvbplus/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+tvN,http://103.38.82.107:28888/stream/tvb/tvn/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+无线新闻台,http://103.38.82.107:28888/stream/tvb/wxxwt/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+ZooMoo,http://103.38.82.107:28888/stream/tvb/zoomoo/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+中國電影頻道,http://103.38.82.107:28888/stream/tvb/null-11/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+中央電視台綜合頻道 (港澳版),http://103.38.82.107:28888/stream/tvb/null-18/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+互動窗 1,http://103.38.82.107:28888/stream/tvb/1/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+互動窗 2,http://103.38.82.107:28888/stream/tvb/2/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+亞洲劇台,http://103.38.82.107:28888/stream/tvb/null-5/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+亞洲新聞台,http://103.38.82.107:28888/stream/tvb/null-21/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+創世電視,http://103.38.82.107:28888/stream/tvb/null-13/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+千禧經典台,http://103.38.82.107:28888/stream/tvb/null-2/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+半島電視台英語頻道,http://103.38.82.107:28888/stream/tvb/null-22/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+天映經典頻道,http://103.38.82.107:28888/stream/tvb/null-10/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+娛樂新聞台,http://103.38.82.107:28888/stream/tvb/null-7/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+戲曲台,http://103.38.82.107:28888/stream/tvb/null-8/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+明珠台,http://103.38.82.107:28888/stream/tvb/null/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+東方衛視國際頻道,http://103.38.82.107:28888/stream/tvb/null-14/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+無線衛星亞洲台,http://103.38.82.107:28888/stream/tvb/null-12/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+無線衛星新聞台,http://103.38.82.107:28888/stream/tvb/null-20/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+神州新聞台,http://103.38.82.107:28888/stream/tvb/null-19/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+粵語片台,http://103.38.82.107:28888/stream/tvb/null-4/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+美亞電影台,http://103.38.82.107:28888/stream/tvb/null-9/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+華語劇台,http://103.38.82.107:28888/stream/tvb/null-3/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+鳳凰衛視中文台,http://103.38.82.107:28888/stream/tvb/null-15/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+鳳凰衛視資訊台,http://103.38.82.107:28888/stream/tvb/null-16/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+鳳凰衛視香港台,http://103.38.82.107:28888/stream/tvb/null-17/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+黃金翡翠台,http://103.38.82.107:28888/stream/tvb/null-1/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
+黃金華劇台,http://103.38.82.107:28888/stream/tvb/null-6/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
 
