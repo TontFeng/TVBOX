@@ -28,6 +28,7 @@ TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0&(kxrj)&167
 //其它源
 香港新聞📢,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 
 香港電視台(p3p),#genre#
 //P3P💝
