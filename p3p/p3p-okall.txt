@@ -432,3 +432,6 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 美·红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美·红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+广东影视,video://https://www.gdtv.cn/tvChannelDetail/53
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
