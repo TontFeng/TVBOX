@@ -487,8 +487,8 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 108p3ptest,p3p://108.181.20.﻿159:37916/62883c4f000a4ca3c722d5ec04fb74e7
 
 108TVBS新聞,p3p://108.181.20.﻿159:37916/621858e3000e70ad1217c0700d576ad0
-
-
-大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
+大湾区卫视2,webview://https://www.gdtv.cn/tvChannelDetail/51
+大湾区卫视1,video://https://www.gdtv.cn/tvChannelDetail/51
 广东影视,video://https://www.gdtv.cn/tvChannelDetail/53
 广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
