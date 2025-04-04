@@ -241,7 +241,7 @@ AKTV-港台线路,#genre#
 翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台 4K,http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-无线新闻台(北美),http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+无线新闻台(北美),http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 翡翠综合台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 翡翠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 TVB Plus,http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
