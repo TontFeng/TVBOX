@@ -1,5 +1,6 @@
 華語新聞(p3p),#genre#
 //P3P💝
+US NBA,https://smart.pendy.dpdns.org/Smart.php?id=Nba
 香港新聞📢,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb&(kxrj)&167
 無線新聞台,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e&(kxrj)&167.H.265
 無線新聞台,p3p://173.208.176.178:31809/653e4818000b73240c7d19181340415e$(kxrj)&173.H.265
@@ -32,6 +33,7 @@ TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0&(kxrj)&167
 
 香港電視台(p3p),#genre#
 //P3P💝
+US NBA,https://smart.pendy.dpdns.org/Smart.php?id=Nba
 翡翠台,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d$H.265&(kxrj)&167
 翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9$(kxrj)&167
 翡翠台,p3p://173.208.176.178:31809/653e4c02000ea0440c8c63fd3e5d709d$(kxrj)&173
@@ -164,6 +166,7 @@ Amc最爱电影,http://aktv_stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8$AKTV
 
 体育台(P3P),#genre#
 //P3P💝
+US NBA,https://smart.pendy.dpdns.org/Smart.php?id=Nba
 CCTV-5 体育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV-5+ 体育赛事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
 廣東體育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
