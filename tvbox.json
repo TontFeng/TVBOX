@@ -15,6 +15,7 @@
     "changeable": 1
   },
   {"key":"ikanbot3","name":"🔥海外杂播网🔥(快，但有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
+  {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {
     "key": "csp_xpath_飞兔",
     "name": "🔥🐰飞兔 ",
