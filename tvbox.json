@@ -6,7 +6,7 @@
 "sites":[
 {
     "key": "苹果",
-    "name": "🔥🍎┃小苹果┃IJK（快）",
+    "name": "🔥🍎┃小苹果┃IJK ",
     "type": 3,
     "api": "csp_LiteApple",
     "jar": "./lib/fty.jar",
@@ -17,7 +17,7 @@
   {"key":"ikanbot3","name":"🔥海外杂播网🔥(快，但有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {
     "key": "csp_xpath_飞兔",
-    "name": "🔥🐰飞兔（快）",
+    "name": "🔥🐰飞兔 ",
     "type": 3,
     "api": "csp_XPathFilter",
     "searchable": 1,
