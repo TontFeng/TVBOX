@@ -4,7 +4,11 @@
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "sites":[
-{"key":"ikanbot3","name":"🔥杂播网(海外高速)🔥（有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
+{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"ikanbot3","name":"🔥杂播网(海外高速)🔥（有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
     
     {
     "key": "csp_xpath_飞兔",
