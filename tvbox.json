@@ -4,10 +4,19 @@
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "sites":[
+{"key":"豆","name":"【豆瓣】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"非凡","name":"非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key":"haiwaikan","name":"海外看┃采集","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+    
     {"key":"ikanbot3","name":"🔥杂播网(海外高速)🔥（有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
     
     {
