@@ -47,8 +47,7 @@
     "key": "苹果",
     "name": "🔥🍎┃小苹果┃IJK（快）",
     "type": 3,
-    "api": "csp_LiteApple",
-    "jar": "./lib/fty.jar",
+    "api":"csp_LiteAppleGuard",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
