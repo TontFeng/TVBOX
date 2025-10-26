@@ -29,26 +29,7 @@
     "filterable": 1,
     "ext": "./ext/feitu.json"
   },
-  {
-    "key": "csp_xpath_大师兄",
-    "name": "🌅大师兄(XPF)",
-    "type": 3,
-    "api": "csp_XPathFilter",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "./ext/dashixong.json"
-  },
-    {
-    "key": "csp_xpath_海兔",
-    "name": "🌅海兔",
-    "type": 3,
-    "api": "csp_XPathFilter",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "./ext/haitu.json"
-  },
+  
   {
     "key": "量子资源",
     "name": "🥑量子资源",
