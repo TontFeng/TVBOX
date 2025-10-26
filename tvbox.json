@@ -17,7 +17,7 @@
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
     
-    {"key":"ikanbot3","name":"🔥杂播网(海外高速)🔥（有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
+{"key":"ikanbot3","name":"🔥杂播网(海外高速)🔥（有搏彩广告）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
     
     {
     "key": "csp_xpath_飞兔",
