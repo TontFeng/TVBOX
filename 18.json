@@ -56,7 +56,7 @@
     "key": "csp_xpath_飞兔",
     "name": "🔥🐰飞兔（快）",
     "type": 3,
-    "jar":"./fm.jar"
+    "jar":"./fm.jar",
     "api": "csp_XPathFilter",
     "searchable": 1,
     "quickSearch": 1,
@@ -67,7 +67,7 @@
     "key": "csp_xpath_大师兄",
     "name": "🌅大师兄(XPF)",
     "type": 3,
-    "jar":"./fm.jar"
+    "jar":"./fm.jar",
     "api": "csp_XPathFilter",
     "searchable": 1,
     "quickSearch": 1,
