@@ -24,6 +24,7 @@
     "name": "🔥🐰飞兔 ",
     "type": 3,
     "api": "csp_XPathFilter",
+    "jar": "./fm.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
