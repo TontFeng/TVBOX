@@ -9,7 +9,7 @@
 ],
 "sites":[
 {"key":"av鯊魚資源","name":"🔥🔞鯊魚資源（HD快）🈲","type":1,"api":"https://shayuapi.com/api.php/provide/vod/"},
-{"key": "csp_xpath_飞兔成人","name": "🏆🔞🐰飞兔成人(好）🈲","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ext/feitucr.json"},
+{"key": "csp_xpath_飞兔成人","name": "🏆🔞🐰飞兔成人(好）🈲","type": 3,"api": "csp_XPathFilter","jar": "./fm.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ext/feitucr.json"},
 {"key":"9206_森林资源","name":"🏆🔞森林资源(好）🈲","type":1,"api":"https://senlinzy2.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"av番號資源","name":"🔥🔞番號資源（快）🈲","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key": "drpy_xvideos","name": "🔞xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
@@ -33,7 +33,7 @@
 {"key":"9206_lbapi9.com","name":"🔞成人7","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_富二代资源","name":"🏆🔞富二代资源（好）🈲","type":0,"api":"http://f2dcj6.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_白嫖资源站","name":"🔞白嫖资源站","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Jable","name":"🏆🔞Jable角色劇情🈲","type":3,"api":"csp_Jable","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.77}},
+{"key":"Jable","name":"🏆🔞Jable角色劇情🈲","type":3,"api":"csp_Jable","jar": "./fm.jar","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.77}},
 {"key":"9206_橘猫资源","name":"🏆🔞橘猫资源🈲","type":1,"api":"https://to.to-long.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9206_玉兔资源","name":"🔞玉兔资源","type":1,"api":"https://yutuzy3.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_老鸭资源","name":"🔞老鸭無碼海外","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
