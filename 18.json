@@ -43,11 +43,11 @@
 {"key":"*辣椒资源","name":"🔞辣椒潮吹🈲","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
 {"key":"*鲨鱼资源","name":"🔞鲨鱼中長片🈲","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
 
- {"key":"tantanzy.com","name":"💕探探(直连)","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"jkunzy.com","name":"💕jkun(直连)","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"tantanzy.com","name":"💕探探(直连-成6)","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"jkunzy.com","name":"💕jkun(直连-鸡申)","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"gqzy.me","name":"♥搞起(直连)","type":1,"api":"https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"lebozy.com","name":"💕乐播(直连)","type":1,"api":"https://lbapi9.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"laoyazy.com","name":"💕老鸭(直连)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"lebozy.com","name":"💕乐播(直连-Y)","type":1,"api":"https://lbapi9.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"laoyazy.com","name":"💕老鸭(直连-Y)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"senlinzy.com","name":"♥森林(直连)","type":1,"api":"https://slapibf.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"timizy.cc","name":"💕甜蜜(直连)","type":1,"api":"https://tianmiapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"didizy.com","name":"♥滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
@@ -58,9 +58,9 @@
 {"key":"avre.club","name":"★黄瓜(直连)","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"sesehuzy.com","name":"💕色虎(直连)","type":1,"api":"https://apisesehuzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"naixxzy.com","name":"★奶香香(直连)","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"laosebizy.com","name":"💕老色逼(直连)","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"laosebizy.com","name":"💕老色逼(直连-Y)","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"www.caoliuzyw.com","name":"★草榴(直连)","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},   
-    
+
 
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
